@@ -3,7 +3,7 @@ function verificarEntrada() {
   let anfitriao = document.getElementById('inpAnfitriao').value
   let resultado = document.querySelector('#spanValidar')
 
-  convidadosEduardo = ['Denise', 'Junia', 'Patrícia', 'Fernanda']
+  convidadosEduardo = ['Denise', 'Junia', 'Patricia', 'Fernanda']
   convidadosNosvaldo = ['Douglas', 'Karen', 'Kelly']
 
   switch (anfitriao) {
