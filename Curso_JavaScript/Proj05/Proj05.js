@@ -1,3 +1,4 @@
+//Par ou ímpar
 //Receber uma quantidade de valores para avaliar
 //função exibe se cada valor é par ou ímpar
 

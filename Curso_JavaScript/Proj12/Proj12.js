@@ -1,3 +1,5 @@
+//Encontre a igualdade
+
 function Endereco(rua, cidade, cep) {
   this.rua = rua
   this.cidade = cidade

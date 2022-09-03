@@ -1,7 +1,8 @@
+//Multiplos de 3 e 5 (soma)
 //Criar função somar que retorna a
-//soma de todos os múltiplos de 3 e 5
+//soma de todos os múltiplos de 3 e de 5
 
-console.log(somar(10))
+console.log(somar(30))
 
 function somar(limite){
   let resultado = 0

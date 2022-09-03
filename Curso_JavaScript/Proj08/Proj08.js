@@ -1,5 +1,5 @@
-// Exercício Nota Escolar
-// Obter a média a partir de um Array
+//Média de nota escolar
+//Obter a média a partir de um Array
 
 // 0-49: F
 // 0-59: E

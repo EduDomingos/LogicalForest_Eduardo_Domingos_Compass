@@ -1,3 +1,4 @@
+//Números primos
 //Criar função para exibir números primos até um limite
 
 exibirNumerosPrimos(20)
@@ -28,6 +29,7 @@ function numeroPrimo(numero) {
 //   if(divisores === 0) console.log(`${i} é primo`)
 // }
 //}
+
 //*************Segunda solução*************
 // function exibirNumerosPrimos(limite) {
 // for (numero = 2; numero <= limite; numero++) {

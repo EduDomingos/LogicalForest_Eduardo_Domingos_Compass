@@ -1,3 +1,4 @@
+//Medidor de velocidade
 //Velocidade máxima de até 70
 //a cada 5km acima do limite você ganha 1 ponto
 //Math.Floor()

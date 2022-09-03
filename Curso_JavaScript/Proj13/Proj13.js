@@ -1,4 +1,5 @@
-//Obejeto postagem de blog
+//Montador de postagem de blog
+//Objeto postagem de blog
 /*titulo, mensagem, autor, visualizações, comentários[autor,mensagem], estaAoVivo*/
 
 let postagem = {
