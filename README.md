@@ -19,6 +19,12 @@ Encontra-se aqui os seguintes exercícios desenvolvidos:
 - Mocha (JS)
 - Chai (JS)
 
+# Agradecimentos
+
+Agradeço a Compass.UOL e a seus colaboradores por essa excelente oportunidade de estágio que vem proporcionando um elevado crescimento profissional e pessoal.
+Agradeço aos meus colegas de estágio pelo ambiente de companheirismo e ajuda mútua que me faz dar o melhor de mim em cada situação.
+Também agradeço a DevAprender pelo excelente curso de JavaScript disponibilizado gratuitamente no ![youtube](https://youtu.be/i6Oi-YtXnAU) e aos evangelizadores da Compass.UOL pelos excelentes vídeos sobre Koans, Mocha e Chai. E claro, nossa sempre solicita Scrum Master Larissa Campos.
+
 # Autor
 
 Eduardo de Domingos Neto
