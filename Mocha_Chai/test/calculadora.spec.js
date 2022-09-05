@@ -124,6 +124,16 @@ describe('Testando classe Calculadora.js', ()=>{
       expect(resultado).to.be.eq(720)
     })
 
+    it("Naturais: fatorial de 1 resultando em 1", ()=>{
+      let resultado = Calculadora.fatorial(1)
+      expect(resultado).to.be.eq(1)
+    })
+
+    it("Naturais: fatorial de 0 resultando em 1", ()=>{
+      let resultado = Calculadora.fatorial(0)
+      expect(resultado).to.be.eq(1)
+    })
+
   })
 
   //Suíte de média
