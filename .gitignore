@@ -11,3 +11,4 @@
 /Mocha_Chai/node_modules
 /Mocha_Chai/package.json
 /Mocha_Chai/package-lock.json
+.gitignore

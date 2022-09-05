@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(196, 196, 246);
+}
+
+div {
+  text-align: center;
+}
+
+header {
+  background-color: rgba(108, 115, 246, 0.8);
+  text-decoration: underline;
+  text-decoration-color: rgb(9, 9, 56);
+  text-decoration-style:double;
+  color: blue;
+}
+
+p {
+  font-size: large;
+}
+
+input{
+  background-color: rgba(170, 170, 240, 0.419);
+  text-align: center;
+  width: 200px;
+  font-style: italic;
+}
+
+.resultYes{
+  color: green;
+  font-weight: 700;
+}
+
+.resultNo{
+  color: red;
+  font-weight: 700;
+}
+
+button{
+  margin-bottom: 20px;
+  border-radius: 50%;
+  background-color: rgb(161, 161, 239);
+  color: blue;
+  font-weight: 400;
+  width: 100px;
+}
