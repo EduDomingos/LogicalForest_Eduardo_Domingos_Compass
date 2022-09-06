@@ -5,52 +5,52 @@
 <p align=center>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=i6Oi-YtXnAU
 " target="_blank"><img src="http://img.youtube.com/vi/i6Oi-YtXnAU/0.jpg" 
-alt="Curso completo de JavaScript básico." width="240" height="180" border="10" /></a>
+alt="Curso completo de JavaScript básico."/></a>
 
 <p align=center>
-Mini Projeto 01: _Trocando valores entre variáveis_
+<b>Mini Projeto 01:</b> <i>Trocando valores entre variáveis</i>
 
 <p align=center>
-Mini Projeto 02: _Máximo entre dois valores_
+<b>Mini Projeto 02:</b> <i>Máximo entre dois valores</i>
 
 <p align=center>
-Mini Projeto 03: _FizzBuzz_
+<b>Mini Projeto 03:</b> <i>FizzBuzz</i>
 
 <p align=center>
-Mini Projeto 04: _Medidor de velocidade_
+<b>Mini Projeto 04:</b> <i>Medidor de velocidade</i>
 
 <p align=center>
-Mini Projeto 05: _Par ou ímpar_
+<b>Mini Projeto 05:</b> <i>Par ou ímpar</i>
 
 <p align=center>
-Mini Projeto 06: _Encontre o String_
+<b>Mini Projeto 06:</b> <i>Encontre o String</i>
 
 <p align=center>
-Mini Projeto 07: _Multiplos de 3 e 5_
+<b>Mini Projeto 07:</b> <i>Multiplos de 3 e 5</i>
 
 <p align=center>
-Mini Projeto 08: _Média de nota escolar_
+<b>Mini Projeto 08:</b> <i>Média de nota escolar</i>
 
 <p align=center>
-Mini Projeto 09: _Contador de asterísco_
+<b>Mini Projeto 09:</b> <i>Contador de asterísco</i>
 
 <p align=center>
-Mini Projeto 10: _Números primos_
+<b>Mini Projeto 10:</b> <i>Números primos</i>
 
 <p align=center>
-Mini Projeto 11: _Montador de Endereço_
+<b>Mini Projeto 11:</b> <i>Montador de Endereço</i>
 
 <p align=center>
-Mini Projeto 12: _Encontre a igualdade_
+<b>Mini Projeto 12:</b> <i>Encontre a igualdade</i>
 
 <p align=center>
-Mini Projeto 13: _Montador de postagem de blog_
+<b>Mini Projeto 13:</b> <i>Montador de postagem de blog</i>
 
 <p align=center>
-Mini Projeto 14: _Faixa de preço_
+<b>Mini Projeto 14:</b> <i>Faixa de preço</i>
 
 <p align=center>
-Mini Projeto 15: _Segurança Virtual_
+<b>Mini Projeto 15:</b> <i>Segurança Virtual</i>
 
 <p align=center>
-Mini Projeto 15b: _Segurança Virtual_ (alternativo)
+<b>Mini Projeto 15b:</b> <i>Segurança Virtual</i> (alternativo)

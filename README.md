@@ -5,7 +5,7 @@
 
 Este repositório tem como objetivo armazenar os exercícios realizados na Sprint 4 do programa de bolsas de estágio Logical Forest - Testes Automatizados pela empresa Compass.UOL
 
-Encontra-se aqui os seguintes exercícios desenvolvidos:
+Encontra-se aqui os seguintes exercícios resolvidos:
 - Mini-projetos em JavaScript da DevAprender;
 - JavaScript Koans;
 - Introdução a testes automatizados com Mocha e Chai.

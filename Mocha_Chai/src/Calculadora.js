@@ -20,7 +20,8 @@ export default class Calculadora {
   }
 
   static divide(a, b) {
-    if (Number.isInteger(a / b)) {
+    if (b === 0) return NaN
+    else if (Number.isInteger(a / b)) {
       return a / b
     } else return Number((a / b).toFixed(2))
   }
@@ -42,11 +43,12 @@ export default class Calculadora {
   }
 
   static media(array) {
-    let media = _(array).reduce((memo, x) => {return memo + x}) / array.length
+    let media =
+      _(array).reduce((memo, x) => {
+        return memo + x
+      }) / array.length
     if (Number.isInteger(media)) {
       return media
     } else return Number(media.toFixed(2))
-
-
   }
 }
